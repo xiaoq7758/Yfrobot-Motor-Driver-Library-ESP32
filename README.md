@@ -1,5 +1,5 @@
-# Yfrobot-Motor-Driver-Library
-YFROBOT Motor Driver Library for Arduino
+# Yfrobot-Motor-Driver-Library-ESP32
+YFROBOT Motor Driver Library for ESP32
 可用模块：
 L298P / PM-R3 / MD01 / MD02 / MD03 / MD04 / MD_GB36 / IIC_MOTORDRIVER / IIC_MOTORDRIVER_RZ7889
 小车套件：
